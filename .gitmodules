@@ -1,0 +1,20 @@
+[submodule "efpopcount"]
+	path = efpopcount
+	url = https://github.com/efnlib/efpopcount.git
+	branch = master
+[submodule "eflog2"]
+	path = eflog2
+	url = https://github.com/efnlib/eflog2.git
+	branch = master
+[submodule "efbitsrequired"]
+	path = efbitsrequired
+	url = https://github.com/efnlib/efbitsrequired.git
+	branch = master
+[submodule "efcimgui_impl_dx9"]
+	path = efcimgui_impl_dx9
+	url = https://github.com/efnlib/efcimgui_impl_dx9.git
+	branch = master
+[submodule "efcimgui_impl_win32"]
+	path = efcimgui_impl_win32
+	url = https://github.com/efnlib/efcimgui_impl_win32.git
+	branch = master

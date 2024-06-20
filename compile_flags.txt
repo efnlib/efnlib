@@ -1,0 +1,5 @@
+-Iefbitsrequired/
+-Iefcimgui_impl_dx9/
+-Iefcimgui_impl_win32/
+-Ieflog2/
+-Iefpopcount/
